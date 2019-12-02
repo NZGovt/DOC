@@ -107,8 +107,6 @@ For the purpose of this Licence, when not inconsistent with the context, words i
 
    7.5. USE OF THIS LICENCE MEANS THAT YOU AND THE LICENSOR EACH ACCEPTS THESE CONDITIONS IN SECTION 7.1, 7.2, 7.3, 7.4 AND EACH ACKNOWLEDGES CREATIVE COMMONS CORPORATION'S VERY LIMITED ROLE AS A FACILITATOR OF THE LICENCE FROM THE LICENSOR TO YOU.
   
-  =======================================================================
-  
 > Creative Commons Notice
 > 
 > Creative Commons is not a party to this Licence, and makes no warranty whatsoever in connection with the Work. Creative Commons will not be liable to You or any party on any legal theory for any damages whatsoever, including without limitation any general, special, incidental or consequential damages arising in connection to this Licence. Notwithstanding the foregoing two (2) sentences, if Creative Commons has expressly identified itself as the Licensor hereunder, it shall have all rights and obligations of Licensor.
